@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @DarkWangZi
-- 👀 I’m interested in Flutter framework, Dart language
-- 🌱 I’m currently studying Computer Science and Information Technology degree at Shanghai University
-- 💞️ I’m looking to collaborate on IOS, Android apps
-- 📫 How to reach me 'https://www.linkedin.com/in/takhir-maksudov-21789b248/' 'https://t.me/darkwangzi' 'Whereistakhir' -WeChatID
-
---->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=4257F7&center=true&width=435&height=40&lines=%F0%9F%91%8B++HELLO+GIT-WORLD-HUB+!!!!!!)](https://git.io/typing-svg)
